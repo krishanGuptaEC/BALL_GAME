@@ -1,8 +1,8 @@
 # BALL_GAME
-How to open:
-  install node.js
-  open cmd
-  go to dir in cmd
-  type npm install
-  type npm start
-  run server link
+How to start:
+  1.install node.js
+  2.open cmd
+  3.go to dir in cmd
+  4.type npm install
+  5.type npm start
+  6.run server link
